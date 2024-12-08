@@ -37,7 +37,7 @@ export const projectData = [
       id: 5,
      title: "Nike Fast",
       description: "Women's Mid-Rise 7/8 Running Leggings with Pockets ",
-      image: "/clothes/image-3.svg",
+      image: "/image-3.svg",
       price:"PKR 3 795"
     },
 
@@ -46,14 +46,14 @@ export const projectData = [
       id: 6,
        title: "Nike Dri-FIT ADV Division",
       description: "Women's Long-Sleeve Running Top",
-      image: "/clothes/image-2.svg",
+      image: "/image-2.svg",
       price:"PKR 5 295"
     },
     {
       id: 7,
       title: "Nike Dri-FIT Challenger",
       description: "Men's 18cm (approx.) 2-in-1 Versatile Shorts",
-      image: "/clothes/image-1.svg",
+      image: "/image-1.svg",
       price:"PKR 2 495"
     },
    
