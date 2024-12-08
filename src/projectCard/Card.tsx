@@ -46,14 +46,14 @@ export const projectData = [
       id: 6,
        title: "Nike Dri-FIT ADV Division",
       description: "Women's Long-Sleeve Running Top",
-      image: "/error6.svg",
+      image: "/error7.svg",
       price:"PKR 5 295"
     },
     {
       id: 7,
       title: "Nike Dri-FIT Challenger",
       description: "Men's 18cm (approx.) 2-in-1 Versatile Shorts",
-      image: "/error7.svg",
+      image: "/error6.svg",
       price:"PKR 2 495"
     },
    
