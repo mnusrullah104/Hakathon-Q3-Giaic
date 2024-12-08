@@ -39,13 +39,13 @@ const Sec6 = () => {
                     </div>
                 </div>
                 <div className='flex flex-col gap-4 justify-center md:items-start items-center'>
-                    <div className='font-medium text-[16px]'>Kids'</div>
+                    <div className='font-medium text-[16px]'>Kids</div>
                     <div>
                         <ul className='flex md:justify-start justify-center items-center md:items-start gap-4 flex-col text-[#757575]'>
                             <li>Infant & Toddler Shoes</li>
-                            <li>Kids' Shoes</li>
-                            <li>Kids' Jordan Shoes</li>
-                            <li>Kids' Basketball Shoes</li>
+                            <li>Kids Shoes</li>
+                            <li>Kids Jordan Shoes</li>
+                            <li>Kids Basketball Shoes</li>
                         </ul>
                     </div>
                 </div>

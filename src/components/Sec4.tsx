@@ -6,7 +6,7 @@ const Sec4 = () => {
     <div>
  <div className="w-full h-auto md:h-auto  flex justify-center items-center flex-col">
         <div className="flex justify-between  items-center w-[90%] md:h-[52px] text-black ">
-            <h1 className="text-[23px]">Don't Miss</h1>
+            <h1 className="text-[23px]">Don not Miss</h1>
           </div>
 
           <div className='w-full  flex justify-center items-center flex-row'>

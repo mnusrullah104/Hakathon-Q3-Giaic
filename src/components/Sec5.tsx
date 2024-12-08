@@ -6,7 +6,7 @@ const Sec5 = () => {
     <div>
          <div className="w-full h-auto md:h-auto  flex justify-center items-center flex-col">
         <div className="flex  items-center w-[90%] md:h-[52px] text-black ">
-            <h1 className="text-[23px]">Don't Miss</h1>
+            <h1 className="text-[23px]">The Essentials</h1>
           </div>
 
           <div className=' flex w-[90%] justify-center items-center flex-row'>
@@ -21,7 +21,7 @@ const Sec5 = () => {
       width={"700"}
       className='md:w-full h-auto w-auto md:h-[440px]'
       />
-      <Button className='absolute top-[80%] left-[10%] bg-white text-black hover:bg-[#F5F5F5]'>Mens's</Button>
+      <Button className='absolute top-[80%] left-[10%] bg-white text-black hover:bg-[#F5F5F5]'>Mens</Button>
 
       </div>
 
@@ -33,7 +33,7 @@ const Sec5 = () => {
       width={"700"}
       className='md:w-full h-auto w-auto md:h-[440px]'
       />
-       <Button className='absolute top-[80%] left-[10%] bg-white text-black hover:bg-[#F5F5F5]'>Women's</Button>
+       <Button className='absolute top-[80%] left-[10%] bg-white text-black hover:bg-[#F5F5F5]'>Womens</Button>
       </div>
       <div className='relative'>
       <Image
@@ -43,7 +43,7 @@ const Sec5 = () => {
       width={"700"}
       className='md:w-full h-auto w-auto md:h-[440px]'
       />
-       <Button className='absolute top-[80%] left-[10%] bg-white text-black hover:bg-[#F5F5F5]'>Kid's</Button>
+       <Button className='absolute top-[80%] left-[10%] bg-white text-black hover:bg-[#F5F5F5]'>Kids</Button>
       </div>
 
 

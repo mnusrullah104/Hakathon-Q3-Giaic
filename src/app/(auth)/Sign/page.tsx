@@ -36,7 +36,7 @@ const page = () => {
                     </div>
                 </div>
                 <div>
-                    <p className='text-[#8D8D8D] md:text-[16px] text-[13px] hover:text-[#606060] text-center'>By logging in, you agree to Nike's Privacy Policy <br /> and Terms of Use.</p>
+                    <p className='text-[#8D8D8D] md:text-[16px] text-[13px] hover:text-[#606060] text-center'>By logging in, you agree to Nikes Privacy Policy <br /> and Terms of Use.</p>
                 </div>
                 <div>
                     <Button className='h-[40px] md:h-[50px] px-2 md:w-[390px] w-[300px] rounded-[4px]'>SIGN IN</Button>
