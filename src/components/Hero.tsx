@@ -10,15 +10,15 @@ const Hero = () => {
      <div className='w-full bg-[#F5F5F5] h-full flex justify-center items-center flex-row'>
      <div className='w-[90%] text-[#111111] h-[40px] md:h-[70px] flex flex-col justify-center items-center '>
      <div>
-      <h1 className='text-2xl hidden md:block'>Hello Nike App</h1>
+      <h1 className='text-2xl font-bold  mb-3 hidden md:block'>Hello Nike App</h1>
      </div>
      <div>
-      <p className='text-[14px] md:flex md:gap-1'>Download the app to access everything Nike. 
+      <p className='text-[14px]  md:flex md:gap-1'>Download the app to access everything Nike. 
        <Link
        href="https://play.google.com/store/apps/details?id=com.nike.omega&hl=en"
        target='_blank'
        >
-        <span className='hover:underline hidden md:flex '>Get Your Great</span>
+        <span className='hover:underline  font-bold hidden md:flex '>Get Your Great</span>
         </Link>
         </p>
      </div>
@@ -28,8 +28,8 @@ const Hero = () => {
 
      {/* Img */}
 
-     <div className='w-full  flex justify-center items-center flex-row'>
-     <div className='text-[#111111] h-auto gap-[40px] flex flex-col justify-center items-center '>
+     <div className='w-full  bg-[#F5F5F5]  flex justify-center items-center flex-row'>
+     <div className='text-[#111111]  h-auto gap-[40px] flex flex-col justify-center items-center '>
       <div>
       <Image
       src="Hero.svg"
