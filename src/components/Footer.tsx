@@ -65,7 +65,7 @@ const Footer = () => {
             <p>Pakistan</p>
           </div>
           <div>
-            <p className='text-[#7E7E7E] flex gap-1 text-[15px]'>Made By <span className='text-white'>Saad Aslam</span></p>
+            <p className='text-[#7E7E7E] flex gap-1 text-[15px]'>Made By <span className='text-white'>Muhammad Nasrullah</span></p>
           </div>
           </div>
           <div className='md:flex hidden justify-center items-center gap-6 text-[#7E7E7E]'>
